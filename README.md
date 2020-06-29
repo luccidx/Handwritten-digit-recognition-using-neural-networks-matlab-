@@ -10,3 +10,6 @@ predict.m - Neural network prediction function
 
 # main.m 
 Do Not Change the main.m File
+
+# Credits
+Thanks to Andrew N G , Stanford University for helping in the course to learn Machine Learning :)
