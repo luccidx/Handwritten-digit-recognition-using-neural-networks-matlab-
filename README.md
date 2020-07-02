@@ -13,3 +13,11 @@ Do Not Change the main.m File
 
 # Credits
 Thanks to Andrew N G , Stanford University for helping in the course to learn Machine Learning :)
+
+# Setup
+
+1). Download the repository
+2). Go to the file in the downloads
+3). In order to run the .m file you need to have Matlab or Octave Installed in your System
+4). Run the main.m file 
+%). Make sure all the necessary files in the repository are under the same file or file location
